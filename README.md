@@ -123,29 +123,30 @@ python vision_keyboard.py
 # Use the tool
 Follow on-screen instructions to interact with the virtual keyboard.
 ```
-
 ---
 
 ## Contribution
 This project is open-source and welcomes contributions! Feel free to fork, modify, and submit pull requests.
 
 For queries, contact:
+- **Tanishka Das**: tanishka.221513201@vcet.edu.in
+- **Shailesh Agrawal**: shailesh.221123109@vcet.edu.in
 - **Pulkit Ashara**: pulkit.221143101@vcet.edu.in
 - **Mayur Bhamare**: mayur.221243102@vcet.edu.in
-- **Shailesh Agrawal**: shailesh.221123109@vcet.edu.in
-
-Mentor: **Dr. Megha Trivedi**
 
 ---
 
 ## Visual Overview
 
 ### Workflow
-1. **Sign Language Translation Tool**: Recognizes, translates, and synthesizes sign language in real-time.
+1. **Sign Language Translation Tool**: Recognizes, translates, and synthesizes sign language in real time.
 2. **Sign-Language-Translator**: Converts gestures into text/speech, enabling gesture-based communication.
 3. **Vision Keyboard**: Facilitates typing with eye blinks, ensuring accessibility for users with limited mobility.
 
-
 ## Acknowledgments
 Special thanks to **Team Deciphers** for their hard work and innovation in creating Echo Assist.
+
+## Presentation
+You can refer to the Presentation folder for getting info about our project through PPT
+Or Watch The Demo Video here: 
 
