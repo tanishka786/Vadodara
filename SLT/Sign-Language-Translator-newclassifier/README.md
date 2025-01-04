@@ -1,5 +1,5 @@
 # Sign-Language-Translator
-Using TensorFlow to translate Sign Language in real-time. **_Final Release_**
+Using TensorFlow to translate Sign Language in real-time.
 
 ## Commands:
 1. npm install (Run this to instal the dependencies - only run this for the first time after cloning the repo)
